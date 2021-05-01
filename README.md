@@ -34,7 +34,8 @@ The analysis of the election show that:
     - Diana DeGette who received 73.8% of the vote with 272,892 votes
 
 These results are summarized in a text file (shown below) created as a readable output of the election audit script.
-[insert png link of the script here]
+
+![image_name](https://github.com/Christopheremorgan/Election_Analysis/blob/main/election_results_screenshot.png)
 
 ## Election Audit Summary
 This script can easily be leveraged for future elections and to provide audit results for other types of elections with minimal modifications. For example, counties could be adjusted for other region types including cities, districts, and states.  
