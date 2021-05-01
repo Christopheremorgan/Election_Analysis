@@ -39,4 +39,4 @@ These results are summarized in a text file (shown below) created as a readable 
 ## Election Audit Summary
 This script can easily be leveraged for future elections and to provide audit results for other types of elections with minimal modifications. For example, counties could be adjusted for other region types including cities, districts, and states.  
 
-The existing script will adjust to any number of candidates and the winner logic can be adjusted to also account for winning percentages for primary elections with thresholds and run-off rules.  The winning percentage can be initialized at the primary threshold %.
+The existing script will adjust to any number of candidates and the winner logic can be adjusted to also account for winning percentages for primary elections with thresholds and run-off rules.  The winning percentage can be initialized at the primary threshold % and the winner candidate variable could be initialized to "No winner. Run off required" in the event the primary threshold condition is not met.
